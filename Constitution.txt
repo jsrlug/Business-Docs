@@ -1,7 +1,7 @@
  
 Article I – Name
 
-The name of this club shall be J. Sargeant Reynolds Linux Users Group henceforth referred to as J. Sargeant Reynolds Linux Users Group and/or Reynolds LUG. 
+The name of this club shall be J. Sargeant Reynolds Linux Users Group henceforth referred to as J. Sargeant Reynolds Linux Users Group, Reynolds LUG, and/or JSRLUG. 
 
 Article II – Purpose
 
@@ -11,7 +11,7 @@ Article III – Membership
 
 Section 1. Membership Eligibility. Membership in The J Sargeant Reynolds Linux Users Group shall be limited to J Sargeant Reynolds Community College students currently enrolled at the College  with a GPA of at least 2.0 or greater. Individuals interested in joining J Sargeant Reynolds Linux Users Group can join by attending the regular meetings and requesting to be a member. 
 
-Section 2. Non-discrimination Policy. The J Saregeant Reynolds Linux Users Group shall not discriminate against any individuals by refusing membership based on age, race, religion, color, gender, sexual orientation, physical or mental disability, or national origin. 
+Section 2. Non-discrimination Policy. The J Saregeant Reynolds Linux Users Group shall not discriminate against any individuals based on age, race, religion, color, gender, sexual orientation, physical or mental disability, or national origin by denying an individual membership, attendence to and full particiation in any meetings/events/activities, or fair and repectful treatment from all other members. Any discrimination should be reported to the Officers and/or Advisor.
 
 Section 3. Membership Responsibilities. Members of the J Sargeant Reynolds Linux Users Group shall attend at least 2 meetings each semester.
 
@@ -20,7 +20,7 @@ Section 4. Resignation. Members shall be asked to resign from J Sargeant Reynold
 
 Article IV – Officers/Advisor
 
-Section 1. Elected Officers. Elected officers of the J. Sargeant Reynolds Linux Users Group shall be the President and Vice President. A quorum of one half of members plus one shall be present in order to select the elected officers with a majority vote needed to pass the vote. Elected officers shall serve a term of one semester, at which time new officers will be elected or the current officers re-elected.  If an officer has left and/or been asked to resign a simple majority of any members at the meeting is all that is required to elect a temporary officer until such time that a group of one half plus one members is present at a meeting.
+Section 1. Elected Officers. Elected officers of the J. Sargeant Reynolds Linux Users Group shall be the President and Vice President. A quorum of one half of members plus one shall be present in order to select the elected officers with a majority vote needed to pass the vote. Regular elections will take place the second meeting of each semester. Elected officers shall remain in their roles until the next regular election is held. At which time new officers will be elected or the current officers re-elected.  If an officer is graduating, has left, and/or been asked to resign a simple majority vote of any members at the meeting is all that is required to elect a temporary officer until such time that a group of one half plus one members is present at a meeting.
 
 Section 2. Officer Duties. 
 
@@ -36,7 +36,7 @@ A. President
 
 B. Vice President
 
-1. Preside over regular meetings when president is not available. 
+1. Preside over regular meetings when president is not available or able to. 
 
 2. Take roll and notes at regular meetings.
 
